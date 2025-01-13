@@ -27,3 +27,4 @@ Fixtures/
 .scribe/
 reports/
 public/docs/
+.DS_Store

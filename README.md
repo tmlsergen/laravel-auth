@@ -72,7 +72,7 @@ Software required to run the project:
 
 To run the tests:
    ```
-   make test
+   make run-tests
    ```
 
 ## Api Documentation
